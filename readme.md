@@ -3,6 +3,6 @@ A complete RESTful API which includes filters, sorts, pagination and authenticat
 Includes mail sending with NodeMailer and fake credit card payment with Stripe. 
 
 ## Tech Stack
-Backend : Node.js, Express, MongoDB, Mongoose 
-Frontend : Server side rendered pages with pug templates
-Tesing : Postman
+Backend : Node.js, Express, MongoDB, Mongoose <br />
+Frontend : Server side rendered pages with pug templates <br />
+Testing : Postman
